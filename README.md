@@ -1,3 +1,4 @@
+
 # Al Bundy's Sales Analysis - Confidence Interval of Shoe Sales using Inferential Statistics and MS Excel
 ## Project Objective
 Using MS Excel and Inferential Statistics, the objective is to compare the confidence interval (CI) of Al Bundy's shoe sales in the United States in the year 2014-2016 with 95% confidence level. Also, to compare the shop performance of US1 and US2. This is for the inventory of  the shoes to know what sizes are to order more and what are the order less to avoid random ordering of shoe stocks.
@@ -31,6 +32,13 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 - For the CI of number of pairs of shoes in the year 2014-2016 (using t-statistic)
 ![image](https://github.com/user-attachments/assets/6ca0a471-29d8-4161-bfcb-09974e2cf103)
 - For the CI of number of pairs of shoes in the year 2014-2016 (using z-statistic)
+![image](https://github.com/user-attachments/assets/e735f09c-d3e5-4a64-a456-8daceed8fe7a)
+- For the CI of number of pairs of shoes in the year 2014-2015 (using t-statistic)
+![image](https://github.com/user-attachments/assets/5cefd345-3c7a-4ad7-8b4f-2267103689a1)
+- For the CI of number of pairs of shoes in the year 2015-2016 (using t-statistic)
+![image](https://github.com/user-attachments/assets/8cd2ec94-4a1b-42d1-98f1-ec624c96a9df)
+
+
 ## Project insights
 
 ## Final Conclusion
