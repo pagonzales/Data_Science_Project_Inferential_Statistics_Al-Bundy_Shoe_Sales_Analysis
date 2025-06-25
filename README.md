@@ -28,11 +28,23 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 
 ## Image
 - For the CI of number of pairs of shoes in the year 2014-2015 (using t-statistic)
-![image](https://github.com/user-attachments/assets/a2801dd9-ff9e-4481-b89e-9ecc9b460259)
+  - For male
+    ![image](https://github.com/user-attachments/assets/a2801dd9-ff9e-4481-b89e-9ecc9b460259)
+  - For female
+    ![image](https://github.com/user-attachments/assets/9c7cae4d-0b6e-4cec-9f9b-fb1c5949d695)
+
 - For the CI of number of pairs of shoes in the year 2015-2016 (using t-statistic)
-![image](https://github.com/user-attachments/assets/8cd2ec94-4a1b-42d1-98f1-ec624c96a9df)
+  - For male
+    ![image](https://github.com/user-attachments/assets/8cd2ec94-4a1b-42d1-98f1-ec624c96a9df)
+  - For female
+    ![image](https://github.com/user-attachments/assets/aacfc979-4b33-4566-ad35-6ba442d196f3)
+
 - For Shoe Sales comparison between US1 shop and US2 shop
-![image](https://github.com/user-attachments/assets/0f9f4d41-5dac-472e-a87d-ecc93b41c2cd)
+  - For male
+    ![image](https://github.com/user-attachments/assets/0f9f4d41-5dac-472e-a87d-ecc93b41c2cd)
+  - For female
+    ![image](https://github.com/user-attachments/assets/214c759d-e016-45a3-97a2-88a193500fc9)
+
 
 
 ## Project insights
