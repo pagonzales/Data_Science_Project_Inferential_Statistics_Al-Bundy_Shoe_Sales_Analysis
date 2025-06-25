@@ -24,7 +24,7 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
   - Country
   - Gender
 - Given that Al Bundy is operating for more than 30 years, we can apply the Central Limit Theorem
-- Then, we can assume normality and create a distrubution frequency table of United States sales in terms of shoe size (as rows) and month (as columns)
+- Then, we can assume normality and create a distribution frequency table of United States sales in terms of shoe size (as rows) and month (as columns)
 - After this, we can now proceed to calculate the mean, standard error, margin of error, and get the confidence interval. Also, rounding off the pair of shoes is important (do this for each year bracket like in the Questions section).
 - Repeat the creation of distribution frequency table for comparing the shop performance of US1 and US2 in terms of sales.
 
