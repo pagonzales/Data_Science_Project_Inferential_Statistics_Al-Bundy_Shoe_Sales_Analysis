@@ -10,12 +10,10 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
   - What are the confidence interval of shoe sales in terms of its sizes in the United States. Compare the following years (Calculate in terms of Male and Female):
     - 2014-2015
     - 2015-2016
-    - 2014-2016
   - What is the number of shoes that are likely to be sold in the period 
     - 2014-2015
     - 2015-2016
-    - 2014-2016
-  - Compare the result using t-statistic and z-statistic
+  - Compare the result using t-statistic
   - By how much does the one shop outperforms the other in terms of sales (Use US1 shop and US2 shop)
 
 ## Process
@@ -26,13 +24,9 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 - Given that Al Bundy is operating for more than 30 years, we can apply the Central Limit Theorem
 - Then, we can assume normality and create a distribution frequency table of United States sales in terms of shoe size (as rows) and month (as columns)
 - After this, we can now proceed to calculate the mean, standard error, margin of error, and get the confidence interval. Also, rounding off the pair of shoes is important (do this for each year bracket like in the Questions section).
-- Repeat the creation of distribution frequency table for comparing the shop performance of US1 and US2 in terms of sales.
+- Repeat the creation of distribution frequency table for comparing the shop performance of US1 and US2 in terms of sales then we use the pooled variance to further analyze the CI.
 
 ## Image
-- For the CI of number of pairs of shoes in the year 2014-2016 (using t-statistic)
-![image](https://github.com/user-attachments/assets/6ca0a471-29d8-4161-bfcb-09974e2cf103)
-- For the CI of number of pairs of shoes in the year 2014-2016 (using z-statistic)
-![image](https://github.com/user-attachments/assets/2918a657-8db9-4d14-833a-368f0e82ef7e)
 - For the CI of number of pairs of shoes in the year 2014-2015 (using t-statistic)
 ![image](https://github.com/user-attachments/assets/a2801dd9-ff9e-4481-b89e-9ecc9b460259)
 - For the CI of number of pairs of shoes in the year 2015-2016 (using t-statistic)
@@ -43,9 +37,16 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 
 ## Project insights
  Using the data set of Al Bundy's shoe sales, we use inferential statistics with 95% confidence interval and found out that, for United states;
-- In the year 2014-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
-- In the year 2014-2016 period (using z-statistic) with 95% confidence level, we have exactly the same numbers of pairs to be ordered using the max value of CI range. (You can see the difference of t-statistic and z-statistic from the Image section above and you'll see that the difference in the max value of CI range is zero). The result is expected since for the year 2014-2016, we have a total of n=36 months which is above the threshold number to use the t-statistic (remember that we can use the t-statistic for n<30 and z-statistic for n>30).
-- In the year 2014-2015 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8.5-11 (using the max value in CI range) and 0 order for size 16.
-- In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
+- For male;
+  - In the year 2014-2015 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8.5-11 (using the max value in CI range) and 0 order for size 16.
+  - In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
+- For female;
+  - In the year 2014-2015 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 7-9.5 (using the max value in CI range) and 0 order starting size 13 to size 16.
+  - In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 7-9.5 (using the max value in CI range) and 0 order starting size 13 to size 16.
+In comparison of US1 shop and US2 shop in terms of sales, with 95% Confidence level we can see that all CI starts with negative and finish with positive values (with the exception of zero values).
+With this, we cannot conclude that one shop sells more shoes than the other for any size. This also means that the CI is not in favor for any specific shop selling more than the other. This tells us
+that US1 sells more, while for others - vice versa. But with the methodology used and level of confidence we cannot identify which shop sells more. They are identical.
 
 ## Final Conclusion
+For the year 2014-2015 and 2015-2016, with 95% confidence level, we can order a number of pair shoes indicated in the images above (in the max value of CI) for the stocks to have a smooth in and out flow per sizes. Also, for the shops US1 and US2, we cannot tell which shop sells more than the other. The CI simply shows that these two shops are so balanced in terms of sales that they can share the same warehouse 
+or exchange pair of shoes to achieve better results.
