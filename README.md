@@ -42,7 +42,7 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
   - In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
 - For female;
   - In the year 2014-2015 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 7-9.5 (using the max value in CI range) and 0 order starting size 13 to size 16.
-  - In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 7-9.5 (using the max value in CI range) and 0 order starting size 13 to size 16.
+  - In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 6.5-9.5 (using the max value in CI range) and 0 order starting size 13 to size 16.
 In comparison of US1 shop and US2 shop in terms of sales, with 95% Confidence level we can see that all CI starts with negative and finish with positive values (with the exception of zero values).
 With this, we cannot conclude that one shop sells more shoes than the other for any size. This also means that the CI is not in favor for any specific shop selling more than the other. This tells us
 that US1 sells more, while for others - vice versa. But with the methodology used and level of confidence we cannot identify which shop sells more. They are identical.
