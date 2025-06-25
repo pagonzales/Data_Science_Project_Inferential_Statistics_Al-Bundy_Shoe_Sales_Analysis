@@ -37,6 +37,8 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 ![image](https://github.com/user-attachments/assets/a2801dd9-ff9e-4481-b89e-9ecc9b460259)
 - For the CI of number of pairs of shoes in the year 2015-2016 (using t-statistic)
 ![image](https://github.com/user-attachments/assets/8cd2ec94-4a1b-42d1-98f1-ec624c96a9df)
+- For Shoe Sales comparison between US1 shop and US2 shop
+![image](https://github.com/user-attachments/assets/0f9f4d41-5dac-472e-a87d-ecc93b41c2cd)
 
 
 ## Project insights
