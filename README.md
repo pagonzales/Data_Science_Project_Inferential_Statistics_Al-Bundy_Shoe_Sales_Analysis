@@ -42,5 +42,10 @@ Using MS Excel and Inferential Statistics, the objective is to compare the confi
 
 
 ## Project insights
+ Using the data set of Al Bundy's shoe sales, we use inferential statistics with 95% confidence interval and found out that, for United states;
+- In the year 2014-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
+- In the year 2014-2016 period (using z-statistic) with 95% confidence level, we have exactly the same numbers of pairs to be ordered using the max value of CI range. (You can see the difference of t-statistic and z-statistic from the Image section above and you'll see that the difference in the max value of CI range is zero). The result is expected since for the year 2014-2016, we have a total of n=36 months which is above the threshold number to use the t-statistic (remember that we can use the t-statistic for n<30 and z-statistic for n>30).
+- In the year 2014-2015 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8.5-11 (using the max value in CI range) and 0 order for size 16.
+- In the year 2015-2016 period (using t-statistic) with 95% confidence level, the most ordered shoe sizes are from US 8-11.5 (using the max value in CI range) and 0 order for size 16.
 
 ## Final Conclusion
