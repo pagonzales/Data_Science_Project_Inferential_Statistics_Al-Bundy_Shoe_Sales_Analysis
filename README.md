@@ -61,7 +61,7 @@ that US1 sells more, while for others - vice versa. But with the methodology use
 
 ## Final Conclusion
 For the year 2014-2015 and 2015-2016, with 95% confidence level, we can order a number of pair shoes indicated in the images above (in the max value of CI) for the stocks to have a smooth in and out flow per sizes or using the max values in both periods and CI, the shop can order the following for flow of stocks with the assumption that the shop should not run out of stocks in heavy orders.
- - For male
+- For male
   - For size 6 - order 3 pairs
   - For size 6.5 - order 2 pairs
   - For size 7 - order 2 pairs
