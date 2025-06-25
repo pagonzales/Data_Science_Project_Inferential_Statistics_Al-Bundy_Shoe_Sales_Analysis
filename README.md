@@ -60,5 +60,43 @@ With this, we cannot conclude that one shop sells more shoes than the other for 
 that US1 sells more, while for others - vice versa. But with the methodology used and level of confidence we cannot identify which shop sells more. They are identical.
 
 ## Final Conclusion
-For the year 2014-2015 and 2015-2016, with 95% confidence level, we can order a number of pair shoes indicated in the images above (in the max value of CI) for the stocks to have a smooth in and out flow per sizes. Also, for the shops US1 and US2, we cannot tell which shop sells more than the other. The CI simply shows that these two shops are so balanced in terms of sales that they can share the same warehouse 
+For the year 2014-2015 and 2015-2016, with 95% confidence level, we can order a number of pair shoes indicated in the images above (in the max value of CI) for the stocks to have a smooth in and out flow per sizes or using the max values in both periods and CI, the shop can order the following for flow of stocks with the assumption that the shop should not run out of stocks in heavy orders.
+ - For male
+  - For size 6 - order 3 pairs
+  - For size 6.5 - order 2 pairs
+  - For size 7 - order 2 pairs
+  - For size 7.5 - order 3 pairs
+  - For size 8 - order 6 pairs
+  - For size 8.5 - order 9 pairs
+  - For size 9 - order 17 pairs
+  - For size 9.5 - order 27 pairs
+  - For size 10 - order 20 pairs
+  - For size 10.5 - order 16 pairs
+  - For size 11 - order 8 pairs
+  - For size 11.5 - order 6 pairs
+  - For size 12 - order 4 pairs
+  - For size 13 - order 2 pairs
+  - For size 14 - order 3 pairs
+  - For size 15 - order 1 pair
+  - For size 6.5 - order 0 pair
+- For female
+  - For size 6 - order 2 pairs
+  - For size 6.5 - order 5 pairs
+  - For size 7 - order 5 pairs
+  - For size 7.5 - order 13 pairs
+  - For size 8 - order 22 pairs
+  - For size 8.5 - order 15 pairs
+  - For size 9 - order 15 pairs
+  - For size 9.5 - order 6 pairs
+  - For size 10 - order 3 pairs
+  - For size 10.5 - order 4 pairs
+  - For size 11 - order 1 pairs
+  - For size 11.5 - order 2 pairs
+  - For size 12 - order 2 pairs
+  - For size 13 - order 0 pairs
+  - For size 14 - order 0 pairs
+  - For size 15 - order 0 pair
+  - For size 6.5 - order 0 pair
+
+Also, for the shops US1 and US2, we cannot tell which shop sells more than the other. The CI simply shows that these two shops are so balanced in terms of sales that they can share the same warehouse 
 or exchange pair of shoes to achieve better results.
